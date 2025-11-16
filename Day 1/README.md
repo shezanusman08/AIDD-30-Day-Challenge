@@ -16,7 +16,7 @@
 
 ### 1. What does AI-Driven Development mean to me?
 
-Mere liye **AI-Driven Development** ka matlab hai ke developer ab akela coder nahi raha — ab AI uska real partner ban gaya hai.  
+Mere liye **AI-Driven Development** ka matlab hai ke developer ab akela coder nahi raha ab AI uska real partner ban gaya hai.  
 Pehle hum har cheez manually code karte thay, lekin ab AI humein coding, debugging, ideas, planning aur hatta ke architecture tak mein support karta hai.
 
 AI-Driven Development ka core point ye hai ke developer code likhne se zyada **sochne, reasoning, evaluation, problem-solving aur strategy** par focus kare.  
@@ -25,16 +25,16 @@ AI boring aur repetitive kaam kar deta hai, aur insaan creative aur intelligent 
 Is tarah developer ki productivity **5–10×** tak barh jati hai.  
 
 **Simply put:**  
-> “AI is not coding for me — AI is coding with me.”
+> “AI is not coding for me AI is coding with me.”
 
 ---
 
 ### 2. How do I see the future of Human–AI Collaboration?
 
-Future mein mujhe lagta hai ke Human–AI collaboration ek **normal workflow** ban jayega — bilkul VS Code ya Git ki tarah.  
+Future mein mujhe lagta hai ke Human–AI collaboration ek **normal workflow** ban jayega bilkul VS Code ya Git ki tarah.  
 AI developers ko replace nahi karega, balke unko **superhuman capability** dega.
 
-**AI karega:**
+**AI Task:**
 - repetitive coding  
 - data analysis  
 - documentation  
@@ -42,14 +42,14 @@ AI developers ko replace nahi karega, balke unko **superhuman capability** dega.
 - generating ideas  
 - suggesting fixes  
 
-**Insaan karega:**
+**Human Task:**
 - planning  
 - reasoning  
 - design  
 - evaluation  
 - decision-making  
 
-Yani future ka developer AI ke saath ek **team member** ki tarah kaam karega — jo na thakta hai, na slow hota hai.
+Yani future ka developer AI ke saath ek **team member** ki tarah kaam karega jo na thakta hai, na slow hota hai.
 
 > “AI + Human = Best version of a developer.”
 
@@ -91,7 +91,7 @@ Yani future ka developer AI ke saath ek **team member** ki tarah kaam karega —
 
 ## End-of-Day Reflection
 
-“Today I learned that AI isn’t replacing developers — it’s redefining them.  
+“Today I learned that AI isn’t replacing developers it’s redefining them.  
 The 2025 Turning Point proved that coding is no longer just syntax; it’s about **reasoning, collaboration, and strategy**.”
 
 ---
